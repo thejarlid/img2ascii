@@ -27,3 +27,10 @@ python3 main.py -c
 # run with a provided image
 python3 main.py -f <filename>
 ```
+
+### Example
+```
+python3 main.py -c
+```
+
+![Example Webcam Usage](https://i.imgur.com/mg56xpg.png)
