@@ -4,12 +4,17 @@ This is a command line tool which prints out a provided image in ascii to the te
 
 ## Setup
 
+The python requirements can be installed using pip. 
+
 ```
 # start a venv
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+For webcam usage we use [imagesnap](https://github.com/rharder/imagesnap). The easiest way to install imagesnap is probably with one of those commands such as `brew install imagesnap`. For more detailed setup see the [imagesnap repo](https://github.com/rharder/imagesnap).
+
 
 ## Usage
 
